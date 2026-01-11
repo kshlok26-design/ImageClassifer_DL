@@ -1,0 +1,13 @@
+# Ignore the large data folder
+data/
+
+# Ignore specific image files in the root directory
+8iAb9k4aT.jpg
+
+# Ignore system/temp folders
+logs/
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Ignore large model files (GitHub has a 100MB limit)
+*.keras
