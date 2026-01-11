@@ -8,6 +8,6 @@ data/
 logs/
 .ipynb_checkpoints/
 .virtual_documents/
-
+test images/
 # Ignore large model files (GitHub has a 100MB limit)
 *.keras
